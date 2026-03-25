@@ -1,4 +1,4 @@
-# Hi, I'm Maggie 👋
+# Hi, It's Luz 👋
 
 ### AI Automation Specialist | Make · n8n · Zapier · GoHighLevel
 
