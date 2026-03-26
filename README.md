@@ -1,10 +1,11 @@
 # Hi, It's Luz 👋
 
-### AI Automation Specialist | Make · n8n · Zapier · GoHighLevel
+### AI Automation Specialist | Make · n8n · Zapier |
 
 I design and implement intelligent automation systems that help businesses eliminate manual work, qualify leads faster, and scale operations — without adding headcount.
 
 Based in **Mexico City 🇲🇽** | Working with clients worldwide via **Upwork (Top Rated · 100% JSS)**
+6 years of experience working remotely with more than 70 projects
 
 ---
 
