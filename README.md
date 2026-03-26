@@ -1,11 +1,11 @@
-# Hi, It's Luz 👋
+# Hi, I'm Luz 👋
 
 ### AI Automation Specialist | Make · n8n · Zapier |
 
-I design and implement intelligent automation systems that help businesses eliminate manual work, qualify leads faster, and scale operations.
+I design and implement intelligent automation systems that help businesses eliminate manual work, qualify leads faster, and scale operations — without adding headcount.
 
 Based in **Mexico City 🇲🇽** | Working with clients worldwide via **Upwork (Top Rated · 100% JSS)**
-6 years of experience working remotely with more than 70 projects
+I've 6 years of experience working in more than 70 projects.
 
 ---
 
@@ -20,7 +20,7 @@ Based in **Mexico City 🇲🇽** | Working with clients worldwide via **Upwork 
 
 ## 🛠️ Tech Stack
 
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -59,24 +59,9 @@ Sales management application built to streamline daily operations and reporting 
 
 I'm open to automation consulting projects, AI integration work, and long-term partnerships.
 
-[![LinkedIn](https://www.linkedin.com/in/luz58zavala/)
-[![Upwork](https://www.upwork.com/freelancers/luz58zavala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luz58zavala/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fc4564292723fd16)
 
 ---
 
 *"Automation is not about replacing people — it's about freeing them to do work that actually matters."*
-
-<!--
-**maggipop-pixel/maggipop-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
