@@ -2,7 +2,7 @@
 
 ### AI Automation Specialist | Make · n8n · Zapier |
 
-I design and implement intelligent automation systems that help businesses eliminate manual work, qualify leads faster, and scale operations — without adding headcount.
+I design and implement intelligent automation systems that help businesses eliminate manual work, qualify leads faster, and scale operations.
 
 Based in **Mexico City 🇲🇽** | Working with clients worldwide via **Upwork (Top Rated · 100% JSS)**
 I've 6 years of experience working in more than 70 projects.
